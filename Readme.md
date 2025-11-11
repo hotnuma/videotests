@@ -14,11 +14,20 @@
     ```
 
 * RaspiOS 13
-
+    
+    fullscreen :
+    
     ```
                  CPU     GPU     Temp
     vlc       :  6.09    0.00   37.01
     ffplay    : 41.26   14.54   43.92
     mpv       : 48.92   38.32   44.03
+    ```
+    
+    window :
+    
+    ```
+                 CPU     GPU     Temp
+    mpv       : 55.20	48.65	43.96
     ```
 
